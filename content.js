@@ -12,7 +12,13 @@ const commonAdSelectors = [
 // Keep a history of the last 10 verses shown to avoid immediate repeats
 let verseHistory = [];
 
+let theverse;
+
 function getRandomVerse() {
+    if (theverse) {
+        return theverse;
+    }
+
     let verse;
     let attempts = 0;
 
@@ -28,6 +34,7 @@ function getRandomVerse() {
         verseHistory.shift(); // Remove the oldest one
     }
 
+    theverse = verse;
     return verse;
 }
 

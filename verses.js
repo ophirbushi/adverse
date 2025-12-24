@@ -141,5 +141,65 @@ const VERSES_DB = [
     { text: "Avoid godless chatter, because those who indulge in it will become more and more ungodly.", ref: "2 Timothy 2:16" },
     { text: "If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless.", ref: "James 1:26" },
     { text: "Let your conversation be always full of grace, seasoned with salt.", ref: "Colossians 4:6" },
-    { text: "Set a guard over my mouth, Lord; keep watch over the door of my lips.", ref: "Psalm 141:3" }
+    { text: "Set a guard over my mouth, Lord; keep watch over the door of my lips.", ref: "Psalm 141:3" },
+
+    // --- FOCUS ON THE ETERNAL (The Anti-Ad) ---
+    { text: "Do not love the world or anything in the world.", ref: "1 John 2:15" },
+    { text: "The world and its desires pass away, but whoever does the will of God lives forever.", ref: "1 John 2:17" },
+    { text: "Set your minds on things above, not on earthly things.", ref: "Colossians 3:2" },
+    { text: "For we brought nothing into the world, and we can take nothing out of it.", ref: "1 Timothy 6:7" },
+    { text: "Do not store up for yourselves treasures on earth... but store up for yourselves treasures in heaven.", ref: "Matthew 6:19-20" },
+    { text: "For where your treasure is, there your heart will be also.", ref: "Matthew 6:21" },
+    { text: "What is your life? You are a mist that appears for a little while and then vanishes.", ref: "James 4:14" },
+    { text: "So we fix our eyes not on what is seen, but on what is unseen.", ref: "2 Corinthians 4:18" },
+    { text: "For here we do not have an enduring city, but we are looking for the city that is to come.", ref: "Hebrews 13:14" },
+    { text: "Heaven and earth will pass away, but my words will never pass away.", ref: "Matthew 24:35" },
+
+    // --- REPENTANCE & REDEMPTION ---
+    { text: "Repent, then, and turn to God, so that your sins may be wiped out.", ref: "Acts 3:19" },
+    { text: "If we confess our sins, he is faithful and just and will forgive us our sins.", ref: "1 John 1:9" },
+    { text: "Create in me a pure heart, O God, and renew a steadfast spirit within me.", ref: "Psalm 51:10" },
+    { text: "Though your sins are like scarlet, they shall be as white as snow.", ref: "Isaiah 1:18" },
+    { text: "I have not come to call the righteous, but sinners to repentance.", ref: "Luke 5:32" },
+    { text: "Godly sorrow brings repentance that leads to salvation and leaves no regret.", ref: "2 Corinthians 7:10" },
+    { text: "He who conceals his sins does not prosper, but whoever confesses and renounces them finds mercy.", ref: "Proverbs 28:13" },
+    { text: "Draw near to God and He will draw near to you. Cleanse your hands, you sinners.", ref: "James 4:8" },
+    { text: "The Lord is close to the brokenhearted and saves those who are crushed in spirit.", ref: "Psalm 34:18" },
+    { text: "Return to the Lord your God, for he is gracious and compassionate.", ref: "Joel 2:13" },
+
+    // --- ANGER, PATIENCE & ENEMIES ---
+    { text: "Do not let the sun go down while you are still angry.", ref: "Ephesians 4:26" },
+    { text: "A hot-tempered person stirs up conflict, but the one who is patient calms a quarrel.", ref: "Proverbs 15:18" },
+    { text: "Love your enemies and pray for those who persecute you.", ref: "Matthew 5:44" },
+    { text: "Do not repay evil with evil or insult with insult.", ref: "1 Peter 3:9" },
+    { text: "If it is possible, as far as it depends on you, live at peace with everyone.", ref: "Romans 12:18" },
+    { text: "Do not avenge yourselves, beloved, but leave room for God’s wrath.", ref: "Romans 12:19" },
+    { text: "Bless those who persecute you; bless and do not curse.", ref: "Romans 12:14" },
+    { text: "Be completely humble and gentle; be patient, bearing with one another in love.", ref: "Ephesians 4:2" },
+    { text: "A person’s wisdom yields patience; it is to one’s glory to overlook an offense.", ref: "Proverbs 19:11" },
+    { text: "Do not be quickly provoked in your spirit, for anger resides in the lap of fools.", ref: "Ecclesiastes 7:9" },
+
+    // --- FAITH & WATCHFULNESS ---
+    { text: "Faith is the assurance of things hoped for, the conviction of things not seen.", ref: "Hebrews 11:1" },
+    { text: "We walk by faith, not by sight.", ref: "2 Corinthians 5:7" },
+    { text: "Watch and pray so that you will not fall into temptation.", ref: "Matthew 26:41" },
+    { text: "Be on your guard; stand firm in the faith; be courageous; be strong.", ref: "1 Corinthians 16:13" },
+    { text: "Let us not become weary in doing good, for at the proper time we will reap a harvest.", ref: "Galatians 6:9" },
+    { text: "But the Lord is faithful, and he will strengthen you and protect you from the evil one.", ref: "2 Thessalonians 3:3" },
+    { text: "Therefore keep watch, because you do not know on what day your Lord will come.", ref: "Matthew 24:42" },
+    { text: "Put on the full armor of God, so that you can take your stand against the devil’s schemes.", ref: "Ephesians 6:11" },
+    { text: "The night is nearly over; the day is almost here. So let us put aside the deeds of darkness.", ref: "Romans 13:12" },
+    { text: "For everyone born of God overcomes the world.", ref: "1 John 5:4" },
+
+    // --- VERY SHORT (For tiny sidebar ads) ---
+    { text: "Pray continually.", ref: "1 Thessalonians 5:17" },
+    { text: "God is light.", ref: "1 John 1:5" },
+    { text: "Seek peace and pursue it.", ref: "Psalm 34:14" },
+    { text: "The Lord provides.", ref: "Genesis 22:14" },
+    { text: "Love never fails.", ref: "1 Corinthians 13:8" },
+    { text: "Hold fast to what is good.", ref: "Romans 12:9" },
+    { text: "The Lord is my rock.", ref: "Psalm 18:2" },
+    { text: "Grace to you and peace.", ref: "Galatians 1:3" },
+    { text: "Choose life.", ref: "Deuteronomy 30:19" },
+    { text: "Do not fear.", ref: "Isaiah 41:10" }
 ];
