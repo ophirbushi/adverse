@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Scripture Ad Replacer",
+    "name": "Adverse",
     "version": "1.0",
     "description": "Replaces ad units with Bible verses.",
     "permissions": [
