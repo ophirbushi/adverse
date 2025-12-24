@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "Scripture Ad Replacer",
+    "version": "1.0",
+    "description": "Replaces ad units with Bible verses.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "verses.js",
+                "content.js"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
